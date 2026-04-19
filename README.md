@@ -31,9 +31,8 @@ Apply constraints:
 Generate Efficient Frontier
 
 **Sample Output**  
-<img width="655" height="232" alt="image" src="https://github.com/user-attachments/assets/eba1702d-c009-4093-9c13-b5291bd1fcef" />
-<img width="671" height="612" alt="image" src="https://github.com/user-attachments/assets/e5b54796-3f0c-4710-8038-0830c6532163" />
-
+<img width="515" height="187" alt="image" src="https://github.com/user-attachments/assets/358efb14-5e34-49d5-9dce-11af553248de" />
+<img width="817" height="711" alt="image" src="https://github.com/user-attachments/assets/580431a3-f6b6-4381-9155-82e4033f01df" />
 
 **Key Insights**    
 Constrained optimization produces more realistic portfolios compared to unconstrained models.  
